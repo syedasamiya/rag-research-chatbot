@@ -54,7 +54,7 @@ Then open `http://127.0.0.1:8000` in your browser.
 
 ## Screenshots
 
-*(Add a screenshot of the chat interface here)*
+*![Chat Interface](screenshotsgit add ./chat-ui.png)*
 
 ## Future Improvements
 
